@@ -2,14 +2,11 @@
 
 This Python script generates a rhythmic sonification of the Rössler Attractor based on threshold and gradient conditioning. It also provides plotting and animation of the attractor.
 
-<<<<<<< HEAD
-=======
+
 ## Demo
 
-Find a video demonstration under the following link:
+Find a video demonstration in the neighbouring .mp4 file.
 
-
->>>>>>> db0c84e5369d24422eb0d36dc5ab53cbe7146a1f
 ## Description
 
 This script calculates and sonifies a three-dimensional Rössler Attractor, with the option to use different parameters. The main focus of this script is to explore the sonification of the attractor based on threshold and gradient conditions.
