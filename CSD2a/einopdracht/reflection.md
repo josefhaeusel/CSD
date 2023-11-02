@@ -13,4 +13,4 @@ Another takeaway is the design of prompted applications, that guide the interact
 
 About the time-accounting:
 I didn't keep track of my time, and wasn't aware that I should (as usual for things I don't get paid for).
-My philosophy is to do as much as I can and aim for more than necessary.
+My ideal is to do as much as I can and aim for more than necessary - what this means in hours, God only knows... :P
