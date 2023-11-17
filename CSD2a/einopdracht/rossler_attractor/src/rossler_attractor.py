@@ -451,7 +451,7 @@ if __name__ == "__main__":
 
     X_Axis, Y_Axis, Z_Axis   =   DataMain(  start_values = [0.1,0.1,0.1],
                                             parameters = {'a': 0.3, 'b': 0.2, 'c': 18},
-                                            steps= 30000, step_size = 0.01     )
+                                            steps= 100000, step_size = 0.01     )
 
     plotData(X_Axis, Y_Axis, Z_Axis)
     viewInteractivePlot()
